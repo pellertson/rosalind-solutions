@@ -1,2 +1,2 @@
 # https://rosalind.info/problems/dna/
-Dna ⇐ {+˝⌽"ACGT"=⌜𝕩}
+Dna ⇐ {+˝⍉"ACGT"=⌜𝕩}
